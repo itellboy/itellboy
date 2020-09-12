@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on JavaScript, React
-- 🌱 I’m currently learning JavaScript, CSS
-- 🤔 I’m looking for a job
+- 🔭 I’m currently working on JavaScript, React, Vue

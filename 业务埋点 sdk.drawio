@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T09:15:51.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-VWUJv5CISn1A8T7bsPu" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:16:35.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XjdXEeRnoZue80ivDR3t" version="22.1.7" type="github">
   <diagram name="第 1 页" id="hFva2WAniShFFfcunT4v">
     <mxGraphModel dx="1026" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="820" y="320" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-7" value="埋点 SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-16" value="浏览器信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="250" width="90" height="40" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="380" y="370" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-21" value="交互信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="380" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-24" value="ozone-schema" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="120" width="110" height="60" as="geometry" />

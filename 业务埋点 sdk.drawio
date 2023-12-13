@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T07:41:36.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GXm_eV1m1-RJp5qSBsYK" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T07:42:32.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8bwfuVQ7R21XaBUjBP-B" version="22.1.8" type="github">
   <diagram name="第 1 页" id="hFva2WAniShFFfcunT4v">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="550" y="315" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-5" value="亚马逊 s3对象存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="820" y="320" width="60" height="80" as="geometry" />
+          <mxGeometry x="830" y="260" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-7" value="埋点 SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="70" height="30" as="geometry" />
@@ -74,6 +74,12 @@
           <mxGeometry x="-0.4019" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Cvx8ApLQqQMucq32pWc3-1" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="830" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cvx8ApLQqQMucq32pWc3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="oBDyeat0bFRR_VgskXgP-4" target="Cvx8ApLQqQMucq32pWc3-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

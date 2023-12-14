@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T07:42:32.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8bwfuVQ7R21XaBUjBP-B" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T06:27:30.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="f9henuCmQ4awjXHCPZg0" version="22.1.8" type="github">
   <diagram name="第 1 页" id="hFva2WAniShFFfcunT4v">
-    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,19 +29,18 @@
         <mxCell id="oBDyeat0bFRR_VgskXgP-3" value="应用信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="250" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oBDyeat0bFRR_VgskXgP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="oBDyeat0bFRR_VgskXgP-4" target="oBDyeat0bFRR_VgskXgP-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z42cSibjOed3D1rj0la6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oBDyeat0bFRR_VgskXgP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oBDyeat0bFRR_VgskXgP-10" value="写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oBDyeat0bFRR_VgskXgP-6" vertex="1" connectable="0">
-          <mxGeometry x="-0.2047" y="4" relative="1" as="geometry">
-            <mxPoint x="14" y="4" as="offset" />
+        <mxCell id="z42cSibjOed3D1rj0la6-3" value="写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z42cSibjOed3D1rj0la6-1">
+          <mxGeometry x="0.465" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-4" value="t2.xiaohongshu.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="315" width="210" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oBDyeat0bFRR_VgskXgP-5" value="亚马逊 s3对象存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="830" y="260" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oBDyeat0bFRR_VgskXgP-7" value="埋点 SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="70" height="30" as="geometry" />
@@ -75,11 +74,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cvx8ApLQqQMucq32pWc3-1" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="830" y="370" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Cvx8ApLQqQMucq32pWc3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="oBDyeat0bFRR_VgskXgP-4" target="Cvx8ApLQqQMucq32pWc3-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Cvx8ApLQqQMucq32pWc3-1" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="810" y="320" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
